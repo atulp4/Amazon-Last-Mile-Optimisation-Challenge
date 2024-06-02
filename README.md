@@ -23,7 +23,13 @@ https://pubsonline.informs.org/doi/10.1287/trsc.2022.1173
 
 ## Instructions for Viewing EDA Outputs
 
+Download Dataset using instructions given.  
+
 Clone the repository.
+
+Convert json to dataframe format using the code given in Amazon-Optimisation.ipynb (Change path to where data is located on your machine)
+
 Open the EDA.ipynb file in Jupyter Notebook.
+
 Execute all cells to reproduce the analysis and visualizations.
 
