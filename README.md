@@ -21,3 +21,9 @@ https://github.com/MIT-CAVE/rc-cli
 https://github.com/aws-samples/amazon-sagemaker-amazon-routing-challenge-sol
 https://pubsonline.informs.org/doi/10.1287/trsc.2022.1173
 
+## Instructions for Viewing EDA Outputs
+
+Clone the repository.
+Open the EDA.ipynb file in Jupyter Notebook.
+Execute all cells to reproduce the analysis and visualizations.
+
